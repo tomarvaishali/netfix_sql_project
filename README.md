@@ -1,1 +1,1 @@
-# netfix_sql_project
+# netfix movies and tv shows Analysis using SQL
